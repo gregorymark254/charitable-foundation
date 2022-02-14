@@ -1,0 +1,50 @@
+.navbar, .navbar-brand:hover{
+    background-color: #254151;
+    color: white;
+
+}
+.nav-link, .navbar-brand{
+    color: white;
+    margin: 10px 12px;
+}
+.nav-link:hover{
+    color: black;
+}
+.active{
+    background-color: yellow;
+    color: black;
+    padding: 16px 18px;
+    display: block;
+}
+.c{
+    position: relative;
+    text-align: right;
+    color: black;
+}
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+}
+.navbar-toggler-icon{
+    color: black;
+    border: 2px solid white;
+}
+
+.t{
+    text-align: center;
+}
+.method{
+    text-align: center;
+    padding: 12px 14px;
+}
+
+
+.footer{
+    background-color: black;
+    color: red;
+    padding: 4px 6px;
+    text-align: center;
+
+}
